@@ -1,0 +1,6 @@
+browser "firefox"
+datetime-format "%Y-%m-%d %H:%M"
+color listnormal white default
+color listfocus green blue bold
+color listnormal_unread green default
+color title white default bold
