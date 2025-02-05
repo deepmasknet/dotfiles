@@ -55,8 +55,8 @@ cd ~/dotfiles
 git pull origin master
 ```
 
-## **Step 6: Pulling and Pushing Changes
-### **Pulling Changes from GitHub
+## **Step 6: Pulling and Pushing Changes**
+### **Pulling Changes from GitHub**
 ```bash
 cd ~/dotfiles
 git pull origin master
@@ -74,7 +74,7 @@ git commit -m "Updated configurations and scripts"
 git push origin master
 ```
 
-## **Step 7: Updating and Maintaining Dotfiles
+## **Step 7: Updating and Maintaining Dotfiles**
 ```bash
 cd ~/dotfiles
 git add .
@@ -82,5 +82,5 @@ git commit -m "Updated config files"
 git push origin master
 ```
 
-## Restoring a New Machine from Dotfiles
+## **Restoring a New Machine from Dotfiles**
 Follow Steps 1-7 on any new Fedora machine to replicate the environment.
