@@ -209,7 +209,7 @@ bindsym $mod+n exec gnome-terminal -- newsboat
 bindsym $mod+f exec firefox
 
 # run KeePassXC
-bindsym $mod+p exec keepassxc
+bindsym $mod+p exec gnome-terminal -- keepassxc
 
 # start Picom automatically for window transparency effects (custom)
 exec --no-startup-id picom --experimental-backends
