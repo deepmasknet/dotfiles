@@ -1,0 +1,5 @@
+-o /run/media/administrator/MASTER/Videos/%(title)s.%(ext)s
+#-f bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]
+#--merge-output-format mp4
+# -f mp4 # For video files only
+-f bestaudio[ext=m4a] # For audio files only
