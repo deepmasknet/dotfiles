@@ -218,7 +218,7 @@ bindsym $mod+b exec electrum
 exec --no-startup-id picom --experimental-backends
 
 # mount external hard drive
-bindsym $mod+m exec --no-startup-id ~/.config/i3/Scripts/MountExtDrive.sh
+bindsym $mod+m exec --no-startup-id ~/dotfiles/scripts/mount-external-drive.sh
 
 # These are custom window colors:
 # Focused window (active)

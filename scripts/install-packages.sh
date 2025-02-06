@@ -21,6 +21,9 @@ packages=(
 	"rsync" # file syncing
 	"veracrypt" # file/device encryption
 	"yt-dlp" # video/audio downloader
+	"mpv" # CLI audio player
+	"pulseaudio-utils" # volume control in i3
+	"ranger" # file viewer
 )
 
 # Install packages
