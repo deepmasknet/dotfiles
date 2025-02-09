@@ -24,6 +24,9 @@ packages=(
 	"mpv" # CLI audio player
 	"pulseaudio-utils" # volume control in i3
 	"ranger" # file viewer
+	"texlive-pdftex" # LaTeX package
+	"texlive-latex" # LaTeX package
+	"texlive-collection-latexrecommended" # LaTeX package
 )
 
 # Install packages
