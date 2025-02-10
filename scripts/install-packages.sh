@@ -27,6 +27,7 @@ packages=(
 	"texlive-pdftex" # LaTeX package
 	"texlive-latex" # LaTeX package
 	"texlive-collection-latexrecommended" # LaTeX package
+	"texline-titling" # LaTeX package
 )
 
 # Install packages
