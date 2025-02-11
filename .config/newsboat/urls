@@ -1,7 +1,10 @@
-# Alerts
-https://tools.cdc.gov/api/v2/resources/media/132608.rss "Alerts"
-https://tools.cdc.gov/api/v2/resources/media/733939.rss "Alerts"
-https://tools.cdc.gov/api/v2/resources/media/281321.rss "Alerts"
+# Public Health Alerts
+https://tools.cdc.gov/api/v2/resources/media/132608.rss "Public Health Alerts"
+https://tools.cdc.gov/api/v2/resources/media/733939.rss "Public Health Alerts"
+https://tools.cdc.gov/api/v2/resources/media/281321.rss "Public Health Alerts"
+
+# Cybersecurity Alerts
+https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/ "Cybersecurity Alerts"
 
 # Sub-Reddits
 https://www.reddit.com/r/privacy.rss?t=day "Sub-Reddits"
@@ -44,6 +47,9 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg "Yo
 https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q "YouTube"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmb8hO2ilV9vRa8cilis88A "YouTube"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6-ymYjG0SU0jUWnWh9ZzEQ "YouTube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ "YouTube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMiyV_Ib77XLpzHPQH_q0qQ "YouTube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "YouTube"
 
 # Web
 https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss "Web"
