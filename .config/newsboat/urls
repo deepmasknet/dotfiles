@@ -4,18 +4,18 @@ https://tools.cdc.gov/api/v2/resources/media/733939.rss "Public Health Alerts"
 https://tools.cdc.gov/api/v2/resources/media/281321.rss "Public Health Alerts"
 
 # Cybersecurity Alerts
-https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/ "Cybersecurity Alerts"
+https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/ "Microsoft Threat Intelligence"
 
 # Sub-Reddits
-https://www.reddit.com/r/privacy.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/bitcoin.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/H5N1_AvianFlu.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/prepperintel.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/politics/top.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/law.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/news.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/worldnews/top.rss?t=day "Sub-Reddits"
-https://www.reddit.com/r/technology/top.rss?t=day "Sub-Reddits"
+https://www.reddit.com/r/privacy.rss?t=day title="r/Privacy"
+https://www.reddit.com/r/bitcoin.rss?t=day "r/Bitcoin"
+https://www.reddit.com/r/H5N1_AvianFlu.rss?t=day "r/H5N1_AvianFlue"
+https://www.reddit.com/r/prepperintel.rss?t=day "r/PrepperIntel"
+https://www.reddit.com/r/politics/top.rss?t=day "r/Politics"
+https://www.reddit.com/r/law.rss?t=day "r/Law"
+https://www.reddit.com/r/news.rss?t=day "r/News"
+https://www.reddit.com/r/worldnews/top.rss?t=day "r/WorldNews"
+https://www.reddit.com/r/technology/top.rss?t=day "r/Technology"
 
 # YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "YouTube"
@@ -52,10 +52,10 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCMiyV_Ib77XLpzHPQH_q0qQ "Yo
 https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "YouTube"
 
 # Web
-https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss "Web"
-https://feeds.feedburner.com/TheHackersNews.xml "Web"
-https://www.wired.com/feed/category/security/latest/rss "Web"
-https://cointelegraph.com/rss "Web"
-https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "Web"
-https://lukesmith.xyz/index.xml "Web"
-https://blog.lopp.net/rss/ "Web"
+https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss "The Privacy, Security & OSINT Podcast"
+https://feeds.feedburner.com/TheHackersNews.xml "The Hacker News"
+https://www.wired.com/feed/category/security/latest/rss "Wired Security News"
+https://cointelegraph.com/rss "Cointelegraph"
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "LukeSmith.xyz Videos"
+https://lukesmith.xyz/index.xml "LukeSmith.xyz"
+https://blog.lopp.net/rss/ "Lopp.net"

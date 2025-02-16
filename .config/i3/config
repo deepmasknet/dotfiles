@@ -208,6 +208,12 @@ bindsym $mod+n exec gnome-terminal -- newsboat
 # run firefox
 bindsym $mod+f exec firefox
 
+# bookmark manager (custom)
+## Add a new bookmark from clipboard
+bindsym $mod+x exec --no-startup-id ~/dotfiles/scripts/bookmark-manager.sh add
+## Open a bookmarked URL
+bindsym $mod+o exec --no-startup-id ~/dotfiles/scripts/bookmark-manager.sh open 
+
 # run keepassxc
 bindsym $mod+p exec keepassxc
 
