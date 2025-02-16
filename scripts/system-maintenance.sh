@@ -22,4 +22,14 @@ flatpak update -y
 echo "Running chkrootkit scan..."
 sudo chkrootkit | tee ~/chkrootkit_scan.log
 
+# Update ClamAV virus database
+echo "Updating virus database..."
+sudo freshclam
+
+# Run virus scan of vulnerable locations
+echo "Running targeted virus scan..."
+sudo clamscan -r ~/Downloads ~/Documents ~/Desktop ~/.local/bin ~/.config ~/.cache
+sudo clamscan -r /tmp /var/tmp
+grep "FOUND" /var/log/clamav/clamscan.log
+
 echo "System maintenance completed!"

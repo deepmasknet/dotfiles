@@ -217,6 +217,9 @@ bindsym $mod+o exec --no-startup-id ~/dotfiles/scripts/bookmark-manager.sh open
 # run keepassxc
 bindsym $mod+p exec keepassxc
 
+# open tasks.txt
+bindsym $mod+t exec --no-startup-id gnome-terminal -e ~/dotfiles/scripts/open-tasks.sh
+
 # run electrum
 bindsym $mod+b exec electrum
 

@@ -28,6 +28,9 @@ packages=(
 	"texlive-latex" # LaTeX package
 	"texlive-collection-latexrecommended" # LaTeX package
 	"texline-titling" # LaTeX package
+	"thunderbird" # Mozilla Thunderbird
+	"chromium" # Chromium Browser
+	"gnupg" # PGP key manager
 )
 
 # Install packages
