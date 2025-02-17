@@ -32,4 +32,9 @@ sudo clamscan -r ~/Downloads ~/Documents ~/Desktop ~/.local/bin ~/.config ~/.cac
 sudo clamscan -r /tmp /var/tmp
 grep "FOUND" /var/log/clamav/clamscan.log
 
+# Clear chromium data
+rm -rf ~/.config/chromium/Default/History
+rm -rf ~/.config/chromium/Default/Cookies
+rm -rf ~/.config/chromium/Default/Cache
+
 echo "System maintenance completed!"
