@@ -31,6 +31,7 @@ packages=(
 	"thunderbird" # Mozilla Thunderbird
 	"chromium" # Chromium Browser
 	"gnupg" # PGP key manager
+	"transmission-cli" # Transmission BitTorrent CLI client
 )
 
 # Install packages
